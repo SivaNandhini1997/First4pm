@@ -2,6 +2,10 @@ package org.emp;
 
 public class Sample {
 	
+	
+	public void m2() {
+		System.out.println("Chand added his code");
+	}
 	public void m1() {
 		System.out.println("Method added by selva");
 	}
